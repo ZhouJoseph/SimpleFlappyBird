@@ -1,4 +1,4 @@
-# <img src="FirstGame/Resources/res/Gold-Medal.png" width=40px/>SimpleFlappyBird<img src="FirstGame/Resources/res/bird-04.png" width=40px/>
+# Simple Flappy Bird<img src="FirstGame/Resources/res/bird-04.png" width=40px/>
 ## Description
 - <strong>SFML</strong> and <strong>C++</strong>
 - Implement a simple version of <strong>Flappy Bird</strong>
