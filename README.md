@@ -10,6 +10,6 @@
 - &nbsp;&nbsp;&nbsp;&nbsp;$ /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 - Then install <strong>SFML</strong>: 
 - &nbsp;&nbsp;&nbsp;&nbsp;$ brew install sfml
-- It's a Xcode project, but it should be fine if you use other environments.
+- It's a Xcode project, not sure if if can be <strong>directly</strong> built in other environments.
 - For Xcode, open the XcodeProject file, and run it.
 <img src="FirstGame/Resources/res/Game-Over-Title.png">
