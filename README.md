@@ -9,7 +9,7 @@
 - Before running the project: 
 - Install <strong>homebrew</strong>:  
 - &nbsp;&nbsp;&nbsp;&nbsp;$ /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
-- Then install <strong>sfml</strong>: 
+- Then install <strong>SFML</strong>: 
 - &nbsp;&nbsp;&nbsp;&nbsp;$ brew install sfml
 - It's a Xcode project, but it should be fine if you use other environments.
 - For Xcode, open the XcodeProject file, and run it.
