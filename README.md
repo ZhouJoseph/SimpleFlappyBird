@@ -3,7 +3,7 @@
 - <strong>SFML</strong> and <strong>C++</strong>
 - Implement a simple version of <strong>Flappy Bird</strong>
 ## Personal Project
-- first attempt building a game by following Udemy online course "Flappy Bird SFML" thumbsup
+- first attempt building a game by following Udemy online course "Flappy Bird SFML" :thumbsup:
 ## How to run the project
 - Before running the project: 
 - Install <strong>homebrew</strong>:  
