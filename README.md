@@ -7,8 +7,10 @@
 - Flappy Bird SFML<br>
 ## How to run the project
 - Before running the project: 
-- Install homebrew:  $ /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
-- Then install sfml: $ brew install sfml
+- Install homebrew:  
+- $ /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+- Then install sfml: 
+- $ brew install sfml
 - It's a Xcode project, but it should be fine if you use other environments.
 - For Xcode, open the XcodeProject file, and run it.
 <img src="FirstGame/Resources/res/Game-Over-Title.png">
